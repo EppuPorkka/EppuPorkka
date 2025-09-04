@@ -10,3 +10,4 @@ Tieto- ja viestintätekniikan insinööritutkinto, LAB ammattikorkeakoulu, 2025 
 - html
 - css
 - luau
+toivottavasti moni muu mahdollisimman pian! :)
