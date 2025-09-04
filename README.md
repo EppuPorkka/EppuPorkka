@@ -1,18 +1,11 @@
-## Hi there 👋
+## Tervetuloa 👋
 
-Moi. Harrastan pelinkehitystä
+Moi! Olen Eppu Porkka. Opiskelen LAB ammattikorkakoulussa tieto- ja viestintätekniikan insinööriksi. Harrastan pelinkehitystä.
 
-<!--
-**EppuPorkka/EppuPorkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Koulutus
+Tieto- ja viestintätekniikan perustutkinto, Saimaan ammattikoulu Sampo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Koodikielet
+- html
+- css
+- luau
