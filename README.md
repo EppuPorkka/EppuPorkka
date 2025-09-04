@@ -17,6 +17,6 @@ VSCode, **Roblox Studio**, Inkscape, PaintNet, Adobe Premiere pro, Blender
 ### [LinkedIn](https://www.linkedin.com/in/eppu-porkka/)
 
 <details>
-<summary>Kokemus</summary>
+<summary>### Kokemus</summary>
   test
 </details>
