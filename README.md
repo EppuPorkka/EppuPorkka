@@ -11,4 +11,5 @@ Moi! Olen Eppu Porkka. Opiskelen LAB ammattikorkakoulussa tieto- ja viestintäte
 - css
 - luau
 
-toivottavasti moni muu mahdollisimman pian! :)
+### Tuttuja työkalut
+VSCode, Roblox Studio, Inkscape, PaintNet, Adobe Premiere pro, Blender
