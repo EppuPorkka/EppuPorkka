@@ -7,11 +7,16 @@ Moi! Olen Eppu Porkka. Opiskelen LAB ammattikorkakoulussa tieto- ja viestintäte
 - Tieto- ja viestintätekniikan insinööritutkinto, LAB ammattikorkeakoulu, 2025 - 202x (kesken)
 
 ### Koodikielet
+- **LuaU**
 - html
 - css
-- luau
 
 ### Tuttuja työkalut
-VSCode, Roblox Studio, Inkscape, PaintNet, Adobe Premiere pro, Blender
+VSCode, **Roblox Studio**, Inkscape, PaintNet, Adobe Premiere pro, Blender
 
 ### [LinkedIn](https://www.linkedin.com/in/eppu-porkka/)
+
+<kokemus>
+<tiedot>Kokemus</tiedot>
+  test
+</kokemus>
