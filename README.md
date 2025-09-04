@@ -16,7 +16,7 @@ VSCode, **Roblox Studio**, Inkscape, PaintNet, Adobe Premiere pro, Blender
 
 ### [LinkedIn](https://www.linkedin.com/in/eppu-porkka/)
 
-<kokemus>
-<tiedot>Kokemus</tiedot>
+<details>
+<summary>Kokemus</summary>
   test
-</kokemus>
+</details>
